@@ -1,0 +1,4 @@
+/sen202_env
+.env
+__pycache__/
+/__pycache__
